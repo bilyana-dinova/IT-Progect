@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bilyana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bilyana\\.nuget\\packages"
+    ]
+  }
+}
